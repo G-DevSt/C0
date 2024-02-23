@@ -1,27 +1,27 @@
 Test MyPlugin :
 
-activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
+activeAdsBeginNOactiveAdsLast		YES to enable    Other or Empty to disable
 
 showAdsCountBegin2showAdsCountLast
-orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/SM-santaC1/main/OrderFile.txtorderMediationLinkLast
+orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/C0/main/SM%20EvilGranny%20C0/OrderFile.txtorderMediationLinkLast
 
-ADMOBIDBeginca-app-pub-4159281980067233~1476866020ADMOBIDLast        ca-app-pub-1917464341569137~2972112220
-ADMOBbanBeginca-app-pub-4159281980067233/8343211600ADMOBbanLast		ca-app-pub-1917464341569137/6062261681
-ADMOBinterBeginca-app-pub-4159281980067233/3282456619ADMOBinterLast		ca-app-pub-1917464341569137/4172070297
-ADMOBrewBeginca-app-pub-4159281980067233/1969374940ADMOBrewLast		ca-app-pub-1917464341569137/8132508363
+ADMOBIDBeginADMOBIDLast        
+ADMOBbanBeginADMOBbanLast		
+ADMOBinterBeginADMOBinterLast		
+ADMOBrewBeginADMOBrewLast		
 
-FANbanBegin411209301283009_411235814613691FANbanLast    IMG_16_9_LINK#    bell : 411209301283009_411235814613691     adil : 1051484449535256_1051536366196731
-FANinterBegin411209301283009_411236084613664FANinterLast IMG_16_9_LINK#   bell: 411209301283009_411236084613664   adil : 1051484449535256_1051536456196722
-FANrewBegin411209301283009_411236241280315FANrewLast IMG_16_9_LINK#  bell : 411209301283009_411236241280315,   adil : 1051484449535256_1051678572849177
+FANbanBeginFANbanLast    IMG_16_9_LINK#    
+FANinterBeginFANinterLast IMG_16_9_LINK#   
+FANrewBeginFANrewLast IMG_16_9_LINK#  
 
-UnityGameIDBegin5147242UnityGameIDLast
+UnityGameIDBeginUnityGameIDLast
  
-MAXsdkKeybanBeginVUM-9bIldS5mM5b250fPppI3iqXL8oCdGZcQ9w9oMEXkK8mP8QpyE6_xxWH3IUhT2JzCD6-aLVJfd34nUuik-hMAXsdkKeybanLast      uPHhzx8GDsA3qh8pqhg2knMTuZUeo1Jk3mW53qGl9g46tqJ_AUTiaNG2vLKOsc5sNwsimnXo6CgKac5lofLKJC
-MAXbanBegin61d7539c58c60aceMAXbanLast      
-MAXinterBegin8f90966f1b9a6999MAXinterLast        
-MAXrewBeginad75e90f1338f81fMAXrewLast    
+MAXsdkKeybanBeginMAXsdkKeybanLast      
+MAXbanBeginaceMAXbanLast      
+MAXinterBeginMAXinterLast        
+MAXrewBeginMAXrewLast    
  
-IsAppIDBegin1d8e7ba85IsAppIDLast
+IsAppIDBeginIsAppIDLast
 IsBannerIDBeginDefaultBannerIsBannerIDLast
 IsInterstitialIDBeginDefaultInterstitialIsInterstitialIDLast
 IsRewardIDBeginDefaultRewardedVideoIsRewardIDLast
