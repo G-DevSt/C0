@@ -17,7 +17,7 @@ FANrewBeginFANrewLast IMG_16_9_LINK#
 UnityGameIDBeginUnityGameIDLast
  
 MAXsdkKeybanBeginMAXsdkKeybanLast      
-MAXbanBeginaceMAXbanLast      
+MAXbanBeginMAXbanLast      
 MAXinterBeginMAXinterLast        
 MAXrewBeginMAXrewLast    
  
