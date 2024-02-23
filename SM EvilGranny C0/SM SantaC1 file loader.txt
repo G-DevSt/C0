@@ -1,0 +1,40 @@
+Test MyPlugin :
+
+activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
+
+showAdsCountBegin2showAdsCountLast
+orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/SM-santaC1/main/OrderFile.txtorderMediationLinkLast
+
+ADMOBIDBeginca-app-pub-4159281980067233~1476866020ADMOBIDLast        ca-app-pub-1917464341569137~2972112220
+ADMOBbanBeginca-app-pub-4159281980067233/8343211600ADMOBbanLast		ca-app-pub-1917464341569137/6062261681
+ADMOBinterBeginca-app-pub-4159281980067233/3282456619ADMOBinterLast		ca-app-pub-1917464341569137/4172070297
+ADMOBrewBeginca-app-pub-4159281980067233/1969374940ADMOBrewLast		ca-app-pub-1917464341569137/8132508363
+
+FANbanBegin411209301283009_411235814613691FANbanLast    IMG_16_9_LINK#    bell : 411209301283009_411235814613691     adil : 1051484449535256_1051536366196731
+FANinterBegin411209301283009_411236084613664FANinterLast IMG_16_9_LINK#   bell: 411209301283009_411236084613664   adil : 1051484449535256_1051536456196722
+FANrewBegin411209301283009_411236241280315FANrewLast IMG_16_9_LINK#  bell : 411209301283009_411236241280315,   adil : 1051484449535256_1051678572849177
+
+UnityGameIDBegin5147242UnityGameIDLast
+ 
+MAXsdkKeybanBeginVUM-9bIldS5mM5b250fPppI3iqXL8oCdGZcQ9w9oMEXkK8mP8QpyE6_xxWH3IUhT2JzCD6-aLVJfd34nUuik-hMAXsdkKeybanLast      uPHhzx8GDsA3qh8pqhg2knMTuZUeo1Jk3mW53qGl9g46tqJ_AUTiaNG2vLKOsc5sNwsimnXo6CgKac5lofLKJC
+MAXbanBegin61d7539c58c60aceMAXbanLast      
+MAXinterBegin8f90966f1b9a6999MAXinterLast        
+MAXrewBeginad75e90f1338f81fMAXrewLast    
+ 
+IsAppIDBegin1d8e7ba85IsAppIDLast
+IsBannerIDBeginDefaultBannerIsBannerIDLast
+IsInterstitialIDBeginDefaultInterstitialIsInterstitialIDLast
+IsRewardIDBeginDefaultRewardedVideoIsRewardIDLast
+
+imageURLBeginimageURLLast
+gameURLBegingameURLLast
+
+rateUsLinkBeginrateUsLinkLast
+moreGamesLinkBeginmoreGamesLinkLast
+termsOfServiceLinkBegintermsOfServiceLinkLast
+
+
+isVendingBeginYESisVendingLast			YES to enable    Other or Empty to disable
+ 
+
+OrderFileBegin{"bannerMediation":0,"interstitialMediation":0,"rewardedMediation":0,"advertisers":[{"advertiser":0,"advertiserName":"Admob","bannerSettings":{"adType":1,"orderAndroid":1,"orderiOS":1,"orderWindows":1,"weightAndroid":1,"weightiOS":1,"weightWindows":1},"interstitialSettings":{"adType":2,"orderAndroid":1,"orderiOS":1,"orderWindows":1,"weightAndroid":1,"weightiOS":1,"weightWindows":1},"rewardedSettings":{"adType":3,"orderAndroid":1,"orderiOS":1,"orderWindows":1,"weightAndroid":1,"weightiOS":1,"weightWindows":1}},{"advertiser":7,"advertiserName":"Facebook","bannerSettings":{"adType":1,"orderAndroid":2,"orderiOS":2,"orderWindows":2,"weightAndroid":0,"weightiOS":0,"weightWindows":0},"interstitialSettings":{"adType":2,"orderAndroid":2,"orderiOS":2,"orderWindows":2,"weightAndroid":0,"weightiOS":0,"weightWindows":0},"rewardedSettings":{"adType":3,"orderAndroid":2,"orderiOS":2,"orderWindows":2,"weightAndroid":0,"weightiOS":0,"weightWindows":0}},{"advertiser":4,"advertiserName":"Unity","bannerSettings":{"adType":1,"orderAndroid":0,"orderiOS":0,"orderWindows":0,"weightAndroid":0,"weightiOS":0,"weightWindows":0},"interstitialSettings":{"adType":2,"orderAndroid":0,"orderiOS":0,"orderWindows":0,"weightAndroid":0,"weightiOS":0,"weightWindows":0},"rewardedSettings":{"adType":3,"orderAndroid":0,"orderiOS":0,"orderWindows":0,"weightAndroid":0,"weightiOS":0,"weightWindows":0}},{"advertiser":9,"advertiserName":"IronSource","bannerSettings":{"adType":1,"orderAndroid":0,"orderiOS":0,"orderWindows":0,"weightAndroid":0,"weightiOS":0,"weightWindows":0},"interstitialSettings":{"adType":2,"orderAndroid":0,"orderiOS":0,"orderWindows":0,"weightAndroid":0,"weightiOS":0,"weightWindows":0},"rewardedSettings":{"adType":3,"orderAndroid":0,"orderiOS":0,"orderWindows":0,"weightAndroid":0,"weightiOS":0,"weightWindows":0}},{"advertiser":6,"advertiserName":"AppLovin","bannerSettings":{"adType":1,"orderAndroid":0,"orderiOS":0,"orderWindows":0,"weightAndroid":0,"weightiOS":0,"weightWindows":0},"interstitialSettings":{"adType":2,"orderAndroid":0,"orderiOS":0,"orderWindows":0,"weightAndroid":0,"weightiOS":0,"weightWindows":0},"rewardedSettings":{"adType":3,"orderAndroid":0,"orderiOS":0,"orderWindows":0,"weightAndroid":0,"weightiOS":0,"weightWindows":0}}]}OrderFileLast
