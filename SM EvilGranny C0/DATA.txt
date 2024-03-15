@@ -5,10 +5,10 @@ activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
 showAdsCountBegin2showAdsCountLast
 orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/C0/main/SM%20EvilGranny%20C0/OrderFile.txtorderMediationLinkLast
 
-ADMOBIDBeginADMOBIDLast        
-ADMOBbanBeginADMOBbanLast		
-ADMOBinterBeginADMOBinterLast		
-ADMOBrewBeginADMOBrewLast		
+ADMOBIDBeginca-app-pub-3940256099942544~3347511713ADMOBIDLast        
+ADMOBbanBeginca-app-pub-4159281980067233/3297313181ADMOBbanLast		
+ADMOBinterBeginca-app-pub-4159281980067233/1984231510ADMOBinterLast		
+ADMOBrewBeginca-app-pub-4159281980067233/5324818525ADMOBrewLast		
 
 FANbanBeginFANbanLast    IMG_16_9_LINK#    
 FANinterBeginFANinterLast IMG_16_9_LINK#   
